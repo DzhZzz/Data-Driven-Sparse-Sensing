@@ -1,0 +1,9 @@
+# Private SWMM model files. Keep SWMM-derived CSV/cache/result files tracked
+# when they are needed for reproducibility.
+SWMM_Model/**/*.inp
+SWMM_Model/*.inp
+
+# Python runtime noise
+__pycache__/
+Code/__pycache__/
+*.py[cod]
