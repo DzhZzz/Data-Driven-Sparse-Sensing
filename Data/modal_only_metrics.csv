@@ -1,0 +1,2 @@
+beta_modal_exposure,raw_r2,leave_one_node_out_r2,leave_one_node_out_spearman,scenario_spearman_mean,scenario_spearman_median,scenario_spearman_q05,scenario_spearman_q95,scenario_spearman_positive_fraction
+0.7730571828299867,0.5976174079250356,0.5424769696598442,0.7811920349662045,0.7522272135521159,0.7484469171191844,0.6920829093892396,0.8424061363769889,1.0
